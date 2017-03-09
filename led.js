@@ -26,5 +26,4 @@ Led.prototype.show = function () {
     this.prevY=this.prevY-y2;
   }
   this.a+=1;
-  console.log(this.a);
 };
